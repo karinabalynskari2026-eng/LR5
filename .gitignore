@@ -1,0 +1,5 @@
+tests/output/
+tests/test_run
+/test
+*.dSYM
+.DS_Store
